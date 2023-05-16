@@ -1,4 +1,4 @@
-# __Palindrome Checker__
+# __fcc-palindrome-checker__
 
 ---
 
